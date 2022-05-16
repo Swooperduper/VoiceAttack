@@ -1,6 +1,6 @@
 # VoiceAttack
  
-This is a communit Voice Attack Server Profile that works with the DDCS server.
+This is a community Voice Attack Server Profile that works with the DDCS server.
 Please review the commands to see how they are prounounced and utilized.
 
 You can Import or Duplicate this profile wherever you store your Voice Attack profile.
